@@ -1,0 +1,79 @@
+Latitude: 37.2467809
+Longitude: 67.2549334
+User-Agent: Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+Altitude: null
+Accuracy: 2866
+Speed: null
+Heading: null
+Platform: Linux armv8l
+Cores: 8
+Memory: 4
+Screen Height: 740
+Screen Width: 360
+Time:2020/08/22 07:58:23
+----------------------Latitude: 41.327001599999996
+Longitude: 69.2813824
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+Altitude: null
+Accuracy: 385631
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/08/22 18:49:26
+----------------------Latitude: 37.2269534
+Longitude: 67.2834839
+User-Agent: Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+Altitude: null
+Accuracy: 1700
+Speed: null
+Heading: null
+Platform: Linux armv8l
+Cores: 8
+Memory: 4
+Screen Height: 740
+Screen Width: 360
+Time:2020/09/11 12:05:42
+----------------------Latitude: 37.2340094
+Longitude: 67.298009
+User-Agent: Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+Altitude: 262.1000061035156
+Accuracy: 1899.9990234375
+Speed: null
+Heading: null
+Platform: Linux armv8l
+Cores: 8
+Memory: 4
+Screen Height: 740
+Screen Width: 360
+Time:2020/09/16 15:18:41
+----------------------Latitude: 41.3237248
+Longitude: 69.271552
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Altitude: null
+Accuracy: 615128
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/09/18 13:02:45
+----------------------Latitude: 40.4706415
+Longitude: 67.57085359999999
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+Altitude: null
+Accuracy: 532930
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/09/22 19:01:56
+----------------------

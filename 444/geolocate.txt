@@ -1,0 +1,66 @@
+Latitude: 37.22660064697266
+Longitude: 67.28144836425781
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 YaBrowser/20.7.3.100 Yowser/2.5 Safari/537.36
+Altitude: null
+Accuracy: 140
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/08/17 11:12:48
+----------------------Latitude: 37.2184636
+Longitude: 67.2764916
+User-Agent: Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+Altitude: 289.6957993588375
+Accuracy: 12
+Speed: 0.3111478090286255
+Heading: 238
+Platform: Linux armv8l
+Cores: 8
+Memory: 4
+Screen Height: 740
+Screen Width: 360
+Time:2020/08/17 21:13:46
+----------------------Latitude: 
+Longitude: 
+User-Agent: 
+Altitude: 
+Accuracy: 
+Speed: 
+Heading: 
+Platform: 
+Cores: 
+Memory: 
+Screen Height: 
+Screen Width: 
+Time:2020/08/31 01:28:03
+----------------------Latitude: 38.3283185
+Longitude: 67.830816
+User-Agent: Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+Altitude: null
+Accuracy: 3775
+Speed: null
+Heading: null
+Platform: Linux armv8l
+Cores: 8
+Memory: 4
+Screen Height: 740
+Screen Width: 360
+Time:2020/09/14 08:08:18
+----------------------Latitude: 37.2290527
+Longitude: 67.2734283
+User-Agent: Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi 7A Build/PKQ1.190319.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.2.6-g
+Altitude: null
+Accuracy: 1700
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 8
+Memory: 2
+Screen Height: 720
+Screen Width: 360
+Time:2020/09/14 20:39:44
+----------------------

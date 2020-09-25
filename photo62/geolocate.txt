@@ -1,0 +1,66 @@
+Latitude: 41.327001599999996
+Longitude: 69.2781056
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+Altitude: null
+Accuracy: 155556
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/08/25 22:42:21
+----------------------Latitude: 41.327001599999996
+Longitude: 69.2781056
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+Altitude: null
+Accuracy: 155556
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/08/25 22:49:42
+----------------------Latitude: 41.327001599999996
+Longitude: 69.2781056
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+Altitude: null
+Accuracy: 155556
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/08/25 23:04:18
+----------------------Latitude: 37.2369298
+Longitude: 67.2932706
+User-Agent: Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+Altitude: 262.1000061035156
+Accuracy: 72.9000015258789
+Speed: null
+Heading: null
+Platform: Linux armv8l
+Cores: 8
+Memory: 4
+Screen Height: 740
+Screen Width: 360
+Time:2020/09/16 15:16:23
+----------------------Latitude: 41.320448000000006
+Longitude: 69.2617216
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+Altitude: null
+Accuracy: 614682
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 6
+Memory: 8
+Screen Height: 1080
+Screen Width: 1920
+Time:2020/09/25 14:41:59
+----------------------
